@@ -1,0 +1,28 @@
+th {
+    border: 1px solid #000000; 
+    color: white;
+    background-color: black; 
+    vertical-align: baseline;
+    font-family: sans-serif;
+}
+
+td{
+    border: 1px solid #000000; 
+    width: 150px;
+    padding: 3px;
+    vertical-align: baseline;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+/* table.title th, td {
+    border: 1px solid #000000; 
+    width: 150px;
+    padding: 3px;
+    vertical-align: baseline;
+    text-align: center;
+} */
