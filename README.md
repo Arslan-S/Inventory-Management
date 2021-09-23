@@ -1,5 +1,7 @@
 # Inventory-Management
 
+DISCLAMER: I am working on making the website public. As of right now it works through my localhost.
+
 How does one organize inventory whether your business is large or small? How do we know if we are out of stock of items, need more delivered, or if it is even in demand?
 
 - This site will help business whether small or large to manage their inventory to make the process more organized and stress free.
